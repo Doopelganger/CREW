@@ -11,5 +11,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         super(Application.class);
         
         System.out.println("HAAAAAAAAAAAALALA CA MARCHE");
+        System.out.println("et là connard ?");
     }
 }
